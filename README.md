@@ -1,5 +1,7 @@
 <!-- mcp-name: dev.repowise/repowise -->
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 <div align="center">
 
 <a href="https://www.repowise.dev"><img src=".github/assets/banner-v2.png" alt="repowise: evidence-backed codebase intelligence" width="100%" /></a>

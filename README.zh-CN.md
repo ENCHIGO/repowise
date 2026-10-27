@@ -7,10 +7,10 @@ Repowise 在你自己的机器上，把代码、依赖图、git 历史、测试�
 一个人在笔记本上免费使用。开源版本包含全部引擎能力，商业层是在此之上、面向整个组织的运行方式。协议是 [AGPL-3.0](LICENSE)。不想在本机跑的话，[repowise.dev](https://www.repowise.dev/?src=oss_readme_section) 可以托管，私有仓库也包括在内。
 
 <p align="center">
-<img src=".github/assets/demo.gif" alt="在本仓库录制：Claude Code 改文件前先问影响范围；仪表盘接着展示优先修复队列、可交给智能体的重构计划、带置信度的死代码、对照本仓库历史排序的一次提交，以及工作区系统地图上前后端之间的 HTTP 契约" width="100%" />
+<img src=".github/assets/hero.webp" alt="了解代码，知道改动会影响什么，先修最重要的问题。本地仪表盘描绘仓库架构，列出所有导入你要修改的文件的文件，在代码健康地图上排出优先修复项，跨仓库连接服务，并用图表回答问题。" width="100%" />
 </p>
 
-<p align="center"><sub>在本仓库及其工作区录制。智能体查询的是本地索引，仪表盘和 CLI 读的是同一份。没有 API key，也没有上传数据。</sub></p>
+<p align="center"><sub>智能体查询的是本地索引，仪表盘和 CLI 读的是同一份。没有 API key，也没有上传数据。</sub></p>
 
 ## 对编程智能体有什么用
 
